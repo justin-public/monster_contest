@@ -1,3 +1,9 @@
+/*
+TARGET:Raspberry Pi B 3
+Copyright(c)2019, epicgram Co.,LTD
+PROJECT: monster contest kiosk1
+REVISION:V1.0
+*/
 #include <unistd.h>
 #include <time.h>
 #include <sys/time.h>
